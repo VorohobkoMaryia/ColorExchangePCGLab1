@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorExchangePCGLab1/static/css/main.c1a1ee4d.css",
+    "main.js": "/ColorExchangePCGLab1/static/js/main.4e6bdc98.js",
+    "index.html": "/ColorExchangePCGLab1/index.html",
+    "main.c1a1ee4d.css.map": "/ColorExchangePCGLab1/static/css/main.c1a1ee4d.css.map",
+    "main.4e6bdc98.js.map": "/ColorExchangePCGLab1/static/js/main.4e6bdc98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a1ee4d.css",
+    "static/js/main.4e6bdc98.js"
+  ]
+}
